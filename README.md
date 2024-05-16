@@ -38,7 +38,7 @@ Postman ile uygulamaya erişmek için aşağıdaki istekleri kullanabilirsiniz:
       "department": "Endüstri Mühendisliği"
   }
   ```
-- **PUT**: Çalışan bilgilerini güncelleme  
+- **PUT**: Öğrenci bilgilerini güncelleme  
   `http://localhost:8080/api/student/{id}`  
 
   ```json
